@@ -28,4 +28,6 @@ else:
 
 print("Od ted Git")
 
+print("Sync na GitHub")
+
     
